@@ -1,0 +1,29 @@
+_repo: The-Tapestry-Book_26151
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Candee, Helen Churchill
+    alias: Candee, Helen Churchill Hungerford
+    birthdate: 1861
+    deathdate: 1949
+    gutenberg_agent_id: '31830'
+    url: http://www.gutenberg.org/2009/agents/31830
+description: ''
+gutenberg_bookshelf: Crafts
+gutenberg_issued: '2008-07-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26151'
+  lccn: '12027941'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'NK'
+- !lcsh 'Tapestry'
+title: The Tapestry Book
+url: http://www.gutenberg.org/ebooks/26151
